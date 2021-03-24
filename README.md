@@ -6,8 +6,11 @@ please acknowledge this paper where this code was used for the first time: https
 it requires FFTW http://fftw.org/
 
 I acknowledge the 
+
 pySpectrum (https://github.com/changhoonhahn/pySpectrum)
+
 Rustico (https://github.com/hectorgil/Rustico/)
+
 Pylians3 (https://github.com/franciscovillaescusa/Pylians3) 
 
 codes from which i have used many useful functions (cited in the code).
