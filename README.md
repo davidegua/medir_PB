@@ -1,5 +1,5 @@
 # medir_el_medible
-measure power spectrum, bispectrum and trispectrum from simulated boxes
+measure power spectrum, bispectrum from simulated boxes
 
 please acknowledge this paper where this code was used for the first time: https://arxiv.org/abs/2009.02290 
 
