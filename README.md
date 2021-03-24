@@ -14,6 +14,7 @@ Run with
 
 Arguments:
  Ngrid    = 128
+ 
  snap     = 3    #simulation snapshot 
  base_rel = 8000 #starting index for the realisations
  irel     = 0
