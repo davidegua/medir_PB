@@ -1,11 +1,16 @@
 # medir_el_medible
-measure power spectrum, bispectrum and trispectrum from simulated boxes
+measure power spectrum, bispectrum from simulated boxes
+
+please cite this paper where this code was used for the first time: https://arxiv.org/abs/2009.02290 
 
 it requires FFTW http://fftw.org/
 
 I acknowledge the 
+
 pySpectrum (https://github.com/changhoonhahn/pySpectrum)
+
 Rustico (https://github.com/hectorgil/Rustico/)
+
 Pylians3 (https://github.com/franciscovillaescusa/Pylians3) 
 
 codes from which i have used many useful functions (cited in the code).
@@ -33,3 +38,5 @@ frac     = 1.   # use 100% of the particles
 cosmo    = fid  # use simulations for a given cosmology (Quijote simulations)
 
 python measure_from_catalogue.py 256 3 0 0 3 2 1 1 fid
+
+In case you have any questions, feel free to drop me an email at dgualdi@icc.ub.edu 
