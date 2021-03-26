@@ -1,7 +1,7 @@
 # medir_el_medible
 measure power spectrum, bispectrum from simulated boxes
 
-please acknowledge this paper where this code was used for the first time: https://arxiv.org/abs/2009.02290 
+please cite this paper where this code was used for the first time: https://arxiv.org/abs/2009.02290 
 
 it requires FFTW http://fftw.org/
 
