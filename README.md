@@ -38,3 +38,5 @@ frac     = 1.   # use 100% of the particles
 cosmo    = fid  # use simulations for a given cosmology (Quijote simulations)
 
 python measure_from_catalogue.py 256 3 0 0 3 2 1 1 fid
+
+In case you have any questions, feel free to drop me an email at dgualdi@icc.ub.edu 
