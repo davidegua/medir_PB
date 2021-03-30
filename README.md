@@ -1,9 +1,17 @@
 # medir_el_medible
 measure power spectrum, bispectrum from simulated boxes
 
-please cite this paper where this code was used for the first time: https://arxiv.org/abs/2009.02290 
+This code at the moment is released “as is”,  I plan to revise it and make it officially public and user-friendly, but I am not there yet.  Call it alpha version.  You are welcome to use it, however at this point be aware that this is not the final product. I recommend you do not yet treat it as a black box for any official (i.e. to be published) material.
 
-it requires FFTW http://fftw.org/
+If you use this code be sure to read and acknowledge the following papers:
+
+https://arxiv.org/abs/1407.5668
+https://arxiv.org/abs/2009.02290
+
+
+##################################
+
+The code requires FFTW http://fftw.org/
 
 I acknowledge the 
 
@@ -40,3 +48,5 @@ cosmo    = fid  # use simulations for a given cosmology (Quijote simulations)
 python measure_from_catalogue.py 256 3 0 0 3 2 1 1 fid
 
 In case you have any questions, feel free to drop me an email at dgualdi@icc.ub.edu 
+
+
